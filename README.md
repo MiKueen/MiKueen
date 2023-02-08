@@ -5,9 +5,9 @@
 
 <p align="center"> <img alt="Coding" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" /> </p>
 
-- 🔭 I’m currently working on **Autoencoders**
+- 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **MLOps and Tableau**
+- 🌱 I’m currently learning **Language Models**
 
 - 📫 Found my profile interesting? Send a text [here](mailto:keshvi2298@gmail.com)
 
