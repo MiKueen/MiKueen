@@ -5,13 +5,11 @@
 
 <p align="center"> <img alt="Coding" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
-
-- 🌱 I’m currently learning **Language Models**
+- 🔭 I’m currently working on **Generative AI and LLMs**
 
 - 📫 Found my profile interesting? Send a text [here](mailto:keshvi2298@gmail.com)
 
-- ⚡ Something I like **anime, horror and sci-fi movies/series.**
+- ⚡ I like **anime, horror, and sci-fi movies/series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
