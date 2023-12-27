@@ -9,7 +9,7 @@
 
 - 📫 Found my profile interesting? Send a text [here](mailto:keshvi2298@gmail.com)
 
-- ⚡ I like **anime, horror, and sci-fi movies/series.**
+- ⚡ I like **anime, horror, and sci-fi movies/series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
