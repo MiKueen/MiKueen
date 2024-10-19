@@ -1,15 +1,26 @@
 ## <p align="center">Hi there 👋, I'm Keshvi - aka [MiKueen](https://github.com/MiKueen)</p>
-<p align="center">I'm a programmer with a keen interest in the field of Machine Learning/Data Science who enjoys implementing and exploring algorithms like Artificial Neural Networks(ANNs), CNNs, RNNs, LSTMs, GANs, etc. applying them on datasets to solve a variety of problems.</p>
+<p align="center">I’m a <b>Data Scientist & Engineer</b> with a strong focus on <b>Generative AI</b>, <b>LLMs</b>, and <b>Machine Learning</b>. I enjoy building AI systems that provide real-time insights and solve complex problems in the finance sector.
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikueen&label=Profile%20views&color=0e75b6&style=flat" alt="mikueen" /> </p>
 
 <p align="center"> <img alt="Coding" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" /> </p>
 
-- 🔭 I’m currently working on **Generative AI and LLMs**
+🔭 **What I'm currently working on?**
+  - An innovative **recommendation engine** using GraphRAG to power real-time analytics and insights for the finance sector.
+  - A **RAG-based chatbot** equipped with long-term memory, improving user engagement by delivering personalized experiences.
+  - Enhancing query performance and reducing latency through **LLM-routing**, ensuring efficient and precise responses.
 
-- 📫 Found my profile interesting? Send a text [here](mailto:keshvi2298@gmail.com)
+🌱 **Core Skills:**
+  - **Generative AI, LLMs, Neural Networks**
+  - **NLP, Machine Learning, Deep Learning**
+  - **Python, PyTorch, TensorFlow**
 
-- ⚡ I like **anime, horror, and sci-fi movies/series**
+📫 **Interested in my work?** Send a text [here](mailto:keshvi2298@gmail.com)
+
+⚡ **Fun Fact:** I love anime, sci-fi, and horror movies when I’m not deep in code.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
