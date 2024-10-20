@@ -19,7 +19,7 @@
 
 📫 **Interested in my work?** Send a text [here](mailto:keshvi2298@gmail.com)
 
-⚡ **Fun Fact:** I love anime, sci-fi, and horror movies when I’m not deep in code.
+⚡ **Fun Fact:** I watch anime, sci-fi, and horror movies when I’m not deep in code.
 
 
 <h3 align="left">Connect with me:</h3>
