@@ -4,7 +4,7 @@
   I build production LLM agent systems. Now focused on <b>agent memory</b>.
 </p>
 <p align="center">
-  <a href="https://YOUR-SUBSTACK-URL"><img src="https://img.shields.io/badge/Engram-191919?style=flat-square&logo=substack&logoColor=white" alt="Engram"></a>
+  <a href="https://keshvigupta.substack.com/"><img src="https://img.shields.io/badge/Engram-191919?style=flat-square&logo=substack&logoColor=white" alt="Engram"></a>
   <a href="https://linkedin.com/in/keshvi-gupta"><img src="https://img.shields.io/badge/LinkedIn-191919?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@mikueen"><img src="https://img.shields.io/badge/Medium-191919?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://kaggle.com/mikueen"><img src="https://img.shields.io/badge/Kaggle-191919?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
@@ -15,6 +15,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikueen&label=Profile%20views&color=0e75b6&style=flat" alt="mikueen" /> </p>
 
 🔭 **The question I'm working on:** how agents **consolidate, supersede, and forget** what they know across sessions, and how to tell whether that memory is actually being used well over time, not just retrieved.
+
+I write about it at [Engram](https://keshvigupta.substack.com/), working through the open problems in the field (consolidation, drift, evaluation) from first principles.
 
 ### Building
  
